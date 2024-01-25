@@ -75,6 +75,10 @@ html {
 }
 .foundation > h1 {
   font-size: 1.45rem;
+  cursor: pointer;
+}
+.foundation > h1:hover {
+  color: var(--clr-yellow);
 }
 .foundation > p {
   font-size: 0.9rem;
